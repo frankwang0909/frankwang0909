@@ -20,13 +20,6 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 - Strong in translating messy real-world workflows into usable dashboards, calculators, automation, and consumer tools.
 - Hands-on across product thinking, frontend implementation, data modeling, and operational tooling.
 
-### GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=frankwang0909&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwang0909&layout=compact&hide_border=true&theme=default" />
-</p>
-
 ### Tech Stack
 
 **Frontend**
@@ -41,6 +34,7 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -108,6 +102,7 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 **后端 & 数据库**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
