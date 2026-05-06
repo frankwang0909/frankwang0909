@@ -54,6 +54,7 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ### Selected Projects
 
@@ -129,6 +130,7 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ### 代表项目
 
