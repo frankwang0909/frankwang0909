@@ -48,6 +48,13 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+
 ### Selected Projects
 
 | # | Project | Description |
@@ -115,6 +122,13 @@ I build end-to-end products with a strong bias toward shipping practical tools f
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**AI 工具**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
 
 ### 代表项目
 
